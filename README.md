@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm AlokaTanaya</h1>
 <h3 align="center">Senior DevOps Engineer | AWS | GCP | Kubernetes | CI/CD | Terraform | Automation</h3>
 
